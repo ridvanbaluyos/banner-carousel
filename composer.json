@@ -1,0 +1,19 @@
+{
+    "name": "ridvanbaluyos/banner-carousel",
+    "description": "This PHP package allows you to rotate banners based on schedule and weight configuration.",
+    "type": "library",
+    "license": "WTFPL",
+    "autoload": {
+        "psr-4": {
+            "Ridvanbaluyos\\": "src/Ridvanbaluyos"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ridvan Baluyos",
+            "email": "ridvan@baluyos.net"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}

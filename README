@@ -1,0 +1,7 @@
+# Banner Carousel
+This PHP package allows you to rotate banners based on date duration, weighting, and IP access.
+
+# Installation
+```php
+composer install
+```

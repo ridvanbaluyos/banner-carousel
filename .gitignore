@@ -6,3 +6,5 @@ composer.phar
 .DS_Store
 Thumbs.db
 *.min.*
+.idea
+.phpunit.result.cache

@@ -1,0 +1,30 @@
+[
+  {
+    "name" : "Banner_A",
+    "start_date" : "2021-08-07T00:00:00+00:00",
+    "end_date" : "2021-08-10T23:59:59+00:00",
+    "weight" : "0.1",
+    "url" : "https://via.placeholder.com/728x90.png?text=Banner%20A"
+  },
+  {
+    "name" : "Banner_B",
+    "start_date" : "2021-08-11T00:00:00+00:00",
+    "end_date" : "2021-08-12T23:59:59+00:00",
+    "weight" : "0.1",
+    "url" : "https://via.placeholder.com/728x90.png?text=Banner%20B"
+  },
+  {
+    "name" : "Banner_C",
+    "start_date" : "2021-08-11T00:00:00+00:00",
+    "end_date" : "2021-08-12T23:59:59+00:00",
+    "weight" : "0.2",
+    "url" : "https://via.placeholder.com/728x90.png?text=Banner%20C"
+  },
+  {
+    "name" : "Banner_D",
+    "start_date" : "2021-08-13T00:00:00+00:00",
+    "end_date" : "2021-08-14T23:59:59+00:00",
+    "weight" : "0.1",
+    "url" : "https://via.placeholder.com/728x90.png?text=Banner%20D"
+  }
+]
